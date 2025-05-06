@@ -1,4 +1,4 @@
-This command line utility made in Rust by Gemini reads cleans csvs in two cases:
+This command line utility made in Rust by Gemini cleans csvs in two cases:
 
 when only a file is passed it checks if there is duplicated emails in email column of a csv file
 
